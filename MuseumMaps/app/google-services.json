@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998549848843",
+    "project_id": "museummaps-7fabf",
+    "storage_bucket": "museummaps-7fabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998549848843:android:ba51f74560259e58b8580e",
+        "android_client_info": {
+          "package_name": "com.sariaydinalparslan.museummaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998549848843-oqp6qgggb0hqngjejogsbisd2gk5t9o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15CAFpbBZ3Mt0E4g5fx0264WUobsko08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998549848843-oqp6qgggb0hqngjejogsbisd2gk5t9o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
